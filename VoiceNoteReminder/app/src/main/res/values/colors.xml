@@ -1,0 +1,22 @@
+<resources>
+    <!-- Blue/Teal palette -->
+    <color name="md_theme_light_primary">#0D47A1</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#90CAF9</color>
+    <color name="md_theme_light_onPrimaryContainer">#001F3F</color>
+
+    <color name="md_theme_light_secondary">#0097A7</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#80DEEA</color>
+    <color name="md_theme_light_onSecondaryContainer">#002022</color>
+
+    <color name="md_theme_dark_primary">#90CAF9</color>
+    <color name="md_theme_dark_onPrimary">#001F3F</color>
+    <color name="md_theme_dark_primaryContainer">#0D47A1</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFFFFF</color>
+
+    <color name="md_theme_dark_secondary">#80DEEA</color>
+    <color name="md_theme_dark_onSecondary">#002022</color>
+    <color name="md_theme_dark_secondaryContainer">#0097A7</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFFFFF</color>
+</resources>

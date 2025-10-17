@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="llm_entries">
+        <item>Auto (TFLite if available)</item>
+        <item>Regex fallback only</item>
+    </string-array>
+    <string-array name="llm_values">
+        <item>auto</item>
+        <item>regex</item>
+    </string-array>
+    <bool name="use_dynamic_color">true</bool>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/settings">
+        <ListPreference
+            app:key="pref_llm_model"
+            app:title="Local LLM Model"
+            app:entries="@array/llm_entries"
+            app:entryValues="@array/llm_values"
+            app:useSimpleSummaryProvider="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Notifications">
+        <SwitchPreferenceCompat
+            app:key="pref_notif_sound"
+            app:title="Play sound"
+            app:defaultValue="true"/>
+    </PreferenceCategory>
+</PreferenceScreen>
