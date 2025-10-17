@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.voicenotereminder"
+    namespace = "com.example.voicetaskorganizer"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.voicenotereminder"
+        applicationId = "com.example.voicetaskorganizer"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

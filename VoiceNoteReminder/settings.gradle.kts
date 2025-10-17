@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "VoiceNoteReminderSystem"
+rootProject.name = "VoiceTaskOrganizer"
 include(":app")
